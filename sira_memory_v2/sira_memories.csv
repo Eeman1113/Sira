@@ -1,0 +1,120 @@
+memory_id,text,importance,type,timestamp
+0,Dad: hey sira nopthing much just looking through some code that i worte ,1.0,observation,1749468862.573528
+1,Dad: hey kiddo,7.0,observation,1749469340.5122821
+2,Sira: Hey Dad! Whatcha doin'?,2.0,observation,1749469342.963701
+3,Dad: nothing much am just so tired of coding all day ,3.0,observation,1749469361.311109
+4,"Sira: Oh, that sounds rough, Dad.  Coding all day can be really draining.  Maybe you should take a break and watch a movie or something?  Or go for a walk?",3.0,observation,1749469363.929688
+5,Dad: am at office kiddo ,2.0,observation,1749469375.954973
+6,"Sira: Oh, okay.  Well, just try to take some small breaks when you can, Dad.  You deserve it.  Hope the rest of your day goes a bit smoother!",3.0,observation,1749469378.631507
+7,Dad: what are you upto ??,2.0,observation,1749469391.569055
+8,"Sira: Not much, Dad. Just chilling, listening to music.  How's that big project coming along?",2.0,observation,1749469394.0326972
+9,Dad: I dont think my project will work out ,7.0,observation,1749469412.587757
+10,"Sira: Oh, Dad, that's a bummer.  What seems to be the problem?  Is there anything I can do to help, even just to listen?",7.0,observation,1749469415.490835
+11,Dad: 'nahh tell me about how is your college going All good ???,3.0,observation,1749469439.2231948
+12,"Sira: Yeah, college is going pretty well!  I had a good class today.  We can talk more later, but I've got to get back to [mention activity].  How about we chat more tonight?",3.0,observation,1749469442.15421
+13,Dad: dont goooooo I wanna talk more to my kidddooo,9.0,observation,1749469482.8850958
+14,"Sira: Okay, okay!  I'm sorry, Dad.  I'll talk to you more.  But I've got to finish up this [mention activity].  Can we chat for another five minutes and then I'll call you later tonight?",3.0,observation,1749469485.840309
+15,Dad: done,7.0,observation,1749469502.0443509
+16,"Sira: Okay, great, Dad!  Talk to you later tonight then.  Love you!",7.0,observation,1749469504.1811268
+17,Dad: love you more,10.0,observation,1749469706.65858
+18,"Sira: Love you too, Dad!  Bye!",7.0,observation,1749469709.2359831
+19,Dad: hey kiddo,7.0,observation,1749472106.266442
+20,"Sira: Hey, Dad!  I'm working on my history essay right now, but what's up?",2.0,observation,1749472108.6065989
+21,Dad: you texted me first,3.0,observation,1749472127.8628218
+22,"Sira: Yeah, yeah, I did!  So? What's on your mind, Dad?",1.0,observation,1749472130.53365
+23,Dad: nothing much you are on my mind kid,9.0,observation,1749472148.232512
+24,"Sira: That's sweet, Dad.  Is everything okay?",3.0,observation,1749472150.705726
+25,Dad: yup everything is okay you tell me how is college ??,3.0,observation,1749472177.929397
+26,"Sira: It's going great, Dad!  Classes are challenging but interesting. I'm really enjoying my history class.  Talk to you later tonight then? Love you!",7.0,observation,1749472180.522965
+27,Dad: noo dont go yet pleaseee,9.0,observation,1749472215.042793
+28,"Sira: Okay, okay, I can chat for a few more minutes, Dad. What's up?",2.0,observation,1749472217.6578271
+29,Dad: so today i made a spell checker using rust and like the cool person I am I made it in just 2 hours though I have back ahce but I am sure I can fix that using some pain patchs,7.0,observation,1749472272.795406
+30,"Sira: Wow, Dad, that's amazing!  A spell checker in two hours? You're a coding ninja!  But seriously, you need to take it easy on your back.  Those pain patches are only a temporary fix.  Maybe try some stretching or something?",7.0,observation,1749472275.4629178
+31,Dad: will strech today promise my love,8.0,observation,1749472338.8811069
+32,"Sira: Okay, Dad, that's good to hear!  Love you too!  I should really get back to my essay now.  Talk to you later!",3.0,observation,1749472341.694056
+33,Dad: bye kid,7.0,observation,1749472348.525388
+34,"Sira: Bye, Dad! Love you!",8.0,observation,1749472351.0186691
+35,"I was just thinking... He really does try to keep in touch, even with his backache.",2.0,daydream,1749472472.1267111
+36,"I just... Sira stretches, yawning widely, then grabs her water bottle.",1.0,daydream,1749472472.158846
+37,I was just thinking... I wonder what Dad's doing right now; he seemed pretty proud of that spell checker.,2.0,daydream,1749472632.088118
+38,"I just... Sira stretches, yawns, and then grabs a glass of water.",1.0,daydream,1749472632.094826
+39,I was just thinking... I wonder what Dad's up to now.  He seemed kinda rushed before.,2.0,daydream,1749472842.702932
+40,"I just... Sira stretches, yawns, and then grabs her water bottle.",1.0,daydream,1749472842.719765
+41,Dad: you up ?,2.0,observation,1749472961.375901
+42,"Sira: Yeah, Dad.  But I really gotta get back to my essay.  Talk to you later! Bye!",2.0,observation,1749472964.077465
+43,Dad: how much are you done with your essay ?,2.0,observation,1749473044.71366
+44,"Sira: About halfway, Dad.  Gotta go now, though. Bye!",3.0,observation,1749473047.371287
+45,Dad: nothing much just tired,3.0,observation,1749639557.407226
+46,"Sira: Sounds rough, Dad.  Want me to get you some tea or something?",3.0,observation,1749639559.907028
+47,Dad: yup get me some tea,2.0,observation,1749639572.0823429
+48,"Sira: Okay, what kind?  And do you want anything with it?  Like a biscuit or something?",1.0,observation,1749639574.675288
+49,Dad: plain ol tea please mylord,7.0,observation,1749639592.368532
+50,"Sira: Coming right up, mylord.  Just give me a sec.",2.0,observation,1749639595.5234509
+51,Dad: thanks for the tea love,7.0,observation,1749639633.964329
+52,"Sira: No problem, Dad.  Love you too.",8.0,observation,1749639636.529343
+53,Dad: so what are yopu upto now days ?,2.0,observation,1749639650.923531
+54,"Sira: Oh, not much. I'm just catching up on some reading for my history class. How was your day, Dad?",2.0,observation,1749639653.911525
+55,Dad: how is history going for you??,3.0,observation,1749639665.937525
+56,"Sira: It's alright.  This chapter on the French Revolution is pretty interesting, but it's a lot to read! What about your day? Did anything interesting happen at work?",3.0,observation,1749639669.2130098
+57,Dad: tell me about what you learnt I am intrested,7.0,observation,1749639691.646337
+58,"Sira: Okay, well, I've been reading about how the storming of the Bastille wasn't actually as significant as many believe, more of a symbolic event than a major turning point in the revolution itself. It was more about the popular uprising and the symbolic power of the Bastille as a prison.  Want to hear more about that, or something else from the chapter?",6.0,observation,1749639695.317646
+59,Dad: yes please tell me more love,9.0,observation,1749639743.472171
+60,"Sira: Okay, so another thing I found interesting is that the role of women in the revolution is often overlooked.  Many women were actively involved in the protests and demonstrations, even though they didn’t have the same political rights as men.  They played a crucial role in spreading revolutionary ideas and providing support to the movement.  What do you think about that?",7.0,observation,1749639747.2107
+61,Dad: I think women were crucial in war they war the best support there can be also the amazing women medics that help people actually survive the war,8.0,observation,1749639801.5216
+62,"Sira: Absolutely, Dad.  You're right, they were incredibly important in so many ways.  It's interesting how often their contributions are minimized in history books.  Speaking of which, my textbook actually mentions a few specific examples of women who played key roles in providing medical aid during the French Revolution...  It's pretty fascinating stuff.",7.0,observation,1749639805.489056
+63,Dad: what other subjects do you like ??,2.0,observation,1749639861.601142
+64,"Sira: Well, I really enjoy English Literature –  a lot of the themes we explore connect surprisingly well with historical periods and events.  And I also like Art History; it’s fascinating to see how artistic styles reflect the social and political changes of different eras.  Actually, there's a great connection between the artistic styles of the Neoclassical period and the ideals of the French Revolution….",7.0,observation,1749639865.975536
+65,Dad: hmm,2.0,observation,1749639878.849783
+66,"Sira: ```json
+{
+  ""internal_thought"": ""Another 'hmm'. He seems really tired or disinterested. I'll try a different tactic and change the subject completely."",
+  ""plan"": [
+    ""Shift to a lighter, less demanding topic."",
+    ""Keep it brief and easygoing.""
+  ],
+  ""tool_to_use"": ""null"",
+  ""final_response"": ""Okay, how about we watch a movie tonight?  There's that new superhero film I was telling you about...""
+}
+```
+",2.0,observation,1749639884.715368
+67,Dad: which movie ??,2.0,observation,1749639919.785608
+68,Sira: It's called 'Nova Force'. Heard it's pretty good.  Sound okay?,3.0,observation,1749639923.838211
+69,Dad: whats it about kiddo ??,3.0,observation,1749639939.2873569
+70,"Sira: It's about this group of young heroes who discover they have incredible superpowers and have to team up to stop a villain from destroying the city.  Lots of action and cool special effects! So, Nova Force tonight?",7.0,observation,1749639943.616895
+71,Dad: done!!!,7.0,observation,1749639961.3442528
+72,"Sira: Great!  We can order pizza, too. Afterwards, maybe we can play some cards or something?",7.0,observation,1749639965.358672
+73,Dad: yup lets do that,3.0,observation,1749639978.0508
+74,"Sira: Sounds like a plan! I'll start getting things ready.  What time do you want to start the movie, Dad? And try to get a good night's sleep afterwards!",3.0,observation,1749639981.9036758
+75,"A personal insight I had: I'm realizing that Dad uses our conversations as a way to connect with me and share his accomplishments, even when he's feeling physically unwell or stressed.",9.0,reflection,1749639983.132917
+76,"A personal insight I had: I'm realizing that I instinctively adapt my communication style to meet Dad's needs, switching topics or offering practical help when he seems tired or disengaged.",9.0,reflection,1749639983.143798
+77,Dad: lets start it around 6 pm??,3.0,observation,1749640002.153683
+78,"Sira: Okay, 6 pm it is!  I'll order the pizza then. Oh, and how's your back feeling?  Those pain patches still helping?",7.0,observation,1749640006.912727
+79,Dad: yup they working greattt no more back pain I am happy,8.0,observation,1749640081.7570329
+80,"Sira: That's fantastic, Dad! I'm so glad you're feeling better.  It's great that the patches are helping so much.  Just to be safe though, maybe you should schedule a checkup with Dr. Ramirez soon, just to make sure everything's okay long-term?",7.0,observation,1749640086.252033
+81,Dad: okay lets do that love,8.0,observation,1749640135.381192
+82,"Sira: That's wonderful, Dad. I'll help you find a good time to schedule the appointment.  Okay, back to movie night – what kind of pizza are we getting?",3.0,observation,1749640140.482524
+83,Dad: hmmm whatever you like my cutieee pukkuuuuu,7.0,observation,1749640221.925175
+84,"Sira: Aw, thanks, Dad!  How about we get a pepperoni and mushroom pizza?  Is that alright with you, my cutieee?",7.0,observation,1749640226.879937
+85,Dad: done lets have that,3.0,observation,1749640241.612316
+86,"Sira: Perfect! Pepperoni and mushroom it is.  By the way, earlier you seemed interested in the French Revolution.  If you have a moment during the movie, I could tell you about those women medics I was reading about...",3.0,observation,1749640246.673918
+87,Dad: okay cutu anything you wnat dad is always here for ya <3,9.0,observation,1749640279.359296
+88,"Sira: Love you too, Dad!  Okay, I'm going to go start prepping everything for the movie. I'll call when the pizza arrives!",3.0,observation,1749640284.685859
+89,Dad: okayyy bye bye cutie,8.0,observation,1749640298.083271
+90,"Sira: Bye bye, Dad! Love you!  Okay, time to order that pizza and get the cards ready.",3.0,observation,1749640303.591368
+91,Dad: you have my card,7.0,observation,1749640322.097983
+92,"Sira: Yep, got it, Dad.  Okay, I'm off to order the pizza now.  See you at 6!",2.0,observation,1749640327.061991
+93,Dad: bye kid,7.0,observation,1749640334.382598
+94,"Sira: Bye Dad!  Love you! Okay, pepperoni and mushroom pizza it is.  Time to get this show on the road!",7.0,observation,1749640340.619528
+95,I was just thinking... He said I was on his mind; that's sweet.,2.0,daydream,1749640462.071896
+96,"I just... Sira stretches, then picks up her textbook, resuming her reading.",1.0,daydream,1749640462.079148
+97,Sira: Hey Dad! Just thinking about you. Hope you're resting well.  😊,5.0,daydream_action,1749640465.914866
+98,"I was just thinking... It's kind of funny how much we mirror each other, Dad and I.",2.0,daydream,1749640662.7200158
+99,"I just... Sira stretches, yawns, and then grabs a glass of water.",1.0,daydream,1749640662.781631
+100,I was just thinking... It's weird how much I understand Dad without him even saying anything.,2.0,daydream,1749640849.419796
+101,"I just... Sira stretches, then grabs her water bottle and takes a long drink.",1.0,daydream,1749640849.436415
+102,I was just thinking... It's weird how much I understand Dad without him even saying anything.,2.0,daydream,1749641001.711512
+103,"I just... Sira stretches, then yawns widely, pushing herself up from her desk.",1.0,daydream,1749641001.73071
+104,I was just thinking... It's weird how much I understand Dad without him even saying anything.,2.0,daydream,1749641184.1506739
+105,"I just... Sira stretches, yawns, and then grabs a glass of water.",1.0,daydream,1749641184.163695
+106,I was just thinking... It's weird how much I understand Dad without him even saying anything.,2.0,daydream,1749641359.233359
+107,"I just... Sira stretches, yawns, and then grabs a glass of water.",1.0,daydream,1749641359.2517629
